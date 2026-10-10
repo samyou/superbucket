@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>SuperBucket</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Sat, 10 Oct 2026 13:55:56 +0900</pubDate>
+            <link>https://github.com/samyou/superbucket</link>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/samyou/superbucket/releases/download/v0.1.0/SuperBucket-0.1.0.dmg" length="2022191" type="application/octet-stream" sparkle:edSignature="5vplk50qtd+MOpulPLXO5A3U4nHef5P2qr6P5QHER5WwhDX4+TPAegFa/GJUOmMAPNYNEYjys6jb2+knBYB7Ag=="/>
+        </item>
+    </channel>
+</rss>
